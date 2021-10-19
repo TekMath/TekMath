@@ -1,6 +1,6 @@
 # It's me Doku 🐍
 
-<img src="https://raw.githubusercontent.com/D0kuhebi/D0kuhebi/main/header-image.png" alt="banner presentation Doku - With an illustration of Lester, character from the GTA video game">
+<img src="https://raw.githubusercontent.com/D0kuhebi/D0kuhebi/main/header-image-new.png" alt="banner presentation Doku - With an illustration of Lester, character from the GTA video game">
 
 I am a 17 year old french student who has been practicing development for almost 5 years. Most of my projects are in `lua` and the rest revolve around the web with `php`. I also use `python` for simple everyday projects.
 
