@@ -1,1 +1,1 @@
-# Hey I'm Math alias Doku ✨
+# Hey I'm Math alias Doku 🤍
