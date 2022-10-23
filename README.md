@@ -8,4 +8,4 @@ Moreover, I work at [Unosial](https://unosial.com/) as CTO where I manage all th
 - Development on several [FiveM](https://fivem.net/) servers in France.
 - Volunteer at [TheCozyCamp](https://discord.gg/tcc) community
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,c,vue,nuxt,lua,postgres,redis)](https://https://github.com/TekMath)
+[![My Skills](https://skills.thijs.gg/icons?i=js,c,vue,nuxt,lua,postgres,redis)](https://github.com/TekMath)
