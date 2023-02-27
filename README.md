@@ -1,6 +1,6 @@
 #### Hello stranger 👋
 I'm Math, a development enthusiast which has been developing for several years on different technologies\
-Today, I'm student at [Epitech](https://www.epitech.eu/en/who-are-we/) where I mainly learn C 🎓.\
+Today, I'm student at [Epitech](https://www.epitech.eu/en/who-are-we/) where I mainly learn C 🎓.
 
 #### Contributions
 - Technical Manager at [Unosial](https://unosial.com), 2021 - 2023.
