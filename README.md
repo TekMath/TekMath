@@ -8,4 +8,4 @@ Today, I'm student at [Epitech](https://www.epitech.eu/en/who-are-we/) where I m
 - Development on several [FiveM](https://fivem.net/) servers in France.
 - Volunteer at [TheCozyCamp](https://discord.gg/tcc) community
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,c,react,next,express,vue,nuxt,lua,postgres,redis)](https://github.com/TekMath)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,c,react,next,express,vue,nuxt,lua,postgres,redis)](https://github.com/TekMath)
