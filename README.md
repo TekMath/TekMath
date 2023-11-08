@@ -8,7 +8,7 @@ Today, I'm student at [Epitech](https://www.epitech.eu/en/who-are-we/) 🎓.
 - Technical Manager at [Unosial](https://unosial.com) 2021 - 2023.
 - Volunteer for [Web2day](https://web2day.co/en/) 2022.
 - Volunteer for [DevFest](https://devfest.gdgnantes.com/) 2022.
-- Development on several [FiveM](https://fivem.net/) servers in France.
+- Development on several [FiveM](https://fivem.net/) servers in France 2021 - 2022.
 - Volunteer at [TheCozyCamp](https://discord.gg/tcc) community
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,c,react,next,express,vue,nuxt,lua,postgres,redis)](https://github.com/TekMath)
