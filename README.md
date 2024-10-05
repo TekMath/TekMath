@@ -3,6 +3,7 @@ I'm Math, a development enthusiast which has been developing for several years o
 Today, I'm student at [Epitech](https://www.epitech.eu/en/who-are-we/) 🎓.
 
 #### Contributions
+- [SNEE](https://www.pepite-france.fr/accompagnement-sur-mesure-pepite-france/) (National Student-Entrepreneur Status) 2024 - 2025
 - Developer at [Revolt Games](https://www.revoltgames.io/) 2023 - today.
 - Head of Cobra Nantes association 2022 - today.
 - Technical Manager & developer at [Unosial](https://unosial.com) 2021 - 2023.
