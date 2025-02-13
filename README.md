@@ -13,5 +13,5 @@ Today, I'm student at [Epitech](https://www.epitech.eu/en/who-are-we/) 🎓.
 - Development on several [FiveM](https://fivem.net/) servers in France 2020 - 2022.
 - Volunteer at [TheCozyCamp](https://discord.gg/tcc) community
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,bun,react,next,express,vue,nuxt,angular,tailwind)](https://github.com/TekMath)\
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gcp,firebase,postgres,sequelize,redis,haskell,lua,dart,flutter)](https://github.com/TekMath)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,cs,dotnet,bun,react,next,express,vue,nuxt,angular,tailwind)](https://github.com/TekMath)\
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,grafana,prometheus,gcp,firebase,postgres,sequelize,redis,haskell,lua,dart,flutter)](https://github.com/TekMath)
